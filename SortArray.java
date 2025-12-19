@@ -1,5 +1,3 @@
-package Arrays;
-
 public class SortArray {
     public int[] sortArrayByParity(int[] nums) {
         int i=0;
