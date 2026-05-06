@@ -5,7 +5,7 @@ It reflects my **problem-solving approach, consistency, and interview preparatio
 
 All solutions are written, tested, and pushed using **VS Code**, with a strong focus on **clean code, optimized logic, and edge-case handling**.
 
----
+----
 
 ## 🎯 Purpose of This Repository
 
