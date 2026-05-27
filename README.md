@@ -21,7 +21,7 @@ All solutions are written, tested, and pushed using **VS Code**, with a strong f
 - Arrays & Strings
 - Linked List
 - Stack & Queue
-- Recursion & Backtracking
+- Recursion 
 - Binary Search
 - Trees (in progress)
 - Dynamic Programming (in progress)
