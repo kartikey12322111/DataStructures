@@ -14,7 +14,7 @@ All solutions are written, tested, and pushed using **VS Code**, with a strong f
 - Maintain a **consistent coding practice log**
 - Showcase **technical growth** for placements
 
----
+----
 
 ## 🧠 DSA Topics Covered
 
